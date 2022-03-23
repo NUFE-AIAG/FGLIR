@@ -12,7 +12,7 @@ NOTE: The dataset is publicly available for non-commercial use. Please refer to 
 
 Please cite our paper if you use this dataset in your work:  
 
-..@article{Wang2020,  
+>>@article{Wang2020,  
  title={From species to cultivar: Soybean cultivar recognition using joint leaf image patterns by multiscale sliding chord matching},  
  author={Wang, Bin and Gao, Yongsheng and Yuan, Xiaohui and Xiong, Shengwu and Feng, Xianzhong},   
  journal={Biosystems Engineering},   
