@@ -1,5 +1,5 @@
 # FGLIR
-Fine-grained Leaf Image Recognition dataset  
+Fine-grained Leaf Image Recognition dataset.  
 
 ## Download  
 Dataset can be download in [SoyCultivar200.rar](https://drive.google.com/file/d/1hzkmLiBGgzhVQTsTXCU87nulOtFGiFgv/view?usp=sharing).
