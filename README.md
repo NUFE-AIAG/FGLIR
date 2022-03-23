@@ -1,4 +1,4 @@
-# FGLIR
+# From species to cultivar: Soybean cultivar recognition using joint leaf image patterns by multiscale sliding chord matching
 Fine-grained Leaf Image Recognition dataset.  
 
 ## Download  
