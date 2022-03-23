@@ -11,7 +11,7 @@ The SoyCultivar200 leaf image dataset was built by collecting the leaf images fr
 
 Naming rules for leaf images of SoyCultivar200:  
 
-Cultivar Index+”FZ”+”_”+part label +”_”+image file index in each cultivar, where “FZ” denote that the leaf is imagined by a reflective scan of the front side, the set of part labels are {U, M, L} which denote the upper part, middle part and lower part, respectively.   
+Cultivar Index+”FZ”+”\_”+part label +”\_”+image file index in each cultivar, where “FZ” denote that the leaf is imagined by a reflective scan of the front side, the set of part labels are {U, M, L} which denote the upper part, middle part and lower part, respectively.   
 
 For example:  
 
