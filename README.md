@@ -2,7 +2,7 @@
 Fine-grained Leaf Image Recognition  
 
 ## Download  
-Dataset can be download in 'https://drive.google.com/file/d/1hzkmLiBGgzhVQTsTXCU87nulOtFGiFgv/view?usp=sharing'.
+Dataset can be download in (https://drive.google.com/file/d/1hzkmLiBGgzhVQTsTXCU87nulOtFGiFgv/view?usp=sharing).
 
 NOTE: The dataset is publicly available for non-commercial use. Please refer to Wang et al, Biosystems Engineering, 2020 if you use this dataset in your publication.
 
