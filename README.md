@@ -4,7 +4,7 @@ Fine-grained Leaf Image Recognition dataset.
 ## Download  
 Dataset can be download in [SoyCultivar200.rar](https://drive.google.com/file/d/1hzkmLiBGgzhVQTsTXCU87nulOtFGiFgv/view?usp=sharing).
 
-NOTE: The dataset is publicly available for non-commercial use. Please refer to Wang et al, Biosystems Engineering, 2020 if you use this dataset in your publication.
+NOTE: The dataset is publicly available for non-commercial use. Please refer to Wang et al, From species to cultivar: Soybean cultivar recognition using joint leaf image patterns by multiscale sliding chord matching, Biosystems Engineering, 2020 if you use this dataset in your publication.
 
 ## Details  
 The SoyCultivar200 leaf image dataset was built by collecting the leaf images from soybean plants of different cultivars that grew in Heilongjiang Provence, china. It contains 6000 leaves collected from plants of 200 soybean cultivars. Each cultivar has 30 samples in which 10 leaves are randomly collected from the upper part, 10 leaves from the middle part, and 10 leaves from the lower part of different plants. The reflective scans of the front sides of the leaves are obtained using an EPSON V850 Pro scanner with a resolution of 600DPI and 48 bit true color setting.  
