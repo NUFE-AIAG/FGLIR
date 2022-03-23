@@ -1,5 +1,5 @@
 # From species to cultivar: Soybean cultivar recognition using joint leaf image patterns by multiscale sliding chord matching
-Soybean leaf cultivar image dataset.  
+SoyCultiavr200: a soybean cultivar leaf image dataset.  
 
 ## Download  
 Dataset can be download in [SoyCultivar200.rar](https://drive.google.com/file/d/1hzkmLiBGgzhVQTsTXCU87nulOtFGiFgv/view?usp=sharing).
