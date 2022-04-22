@@ -2,7 +2,7 @@
 SoyCultiavr200: a soybean cultivar leaf image dataset.  
 
 ## Download  
-Dataset can be download in [SoyCultivar200.rar](https://drive.google.com/file/d/1GZ_HOGx_8azHSqxTzD77P5SqO0eG1i7i/view?usp=sharing).      
+Dataset can be download in [SoyCultivar200.rar](https://drive.google.com/file/d/1XsWZPYYrDsCwAy5r4t3I1F_lOOrGGhgf/view?usp=sharing).      
 
 NOTE: The dataset is publicly available for non-commercial use. Please refer to Wang, Bin, et al. "From species to cultivar: Soybean cultivar recognition using joint leaf image patterns by multiscale sliding chord matching." biosystems engineering 194 (2020): 99-111 if you use this dataset in your publication.
 
